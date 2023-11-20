@@ -1,0 +1,14 @@
+.added-item{
+   
+    display: flex;
+    align-items: center;
+     justify-content: space-evenly;
+    
+}
+.added-item img{
+    width: 70px;
+}
+.added-item p:nth-child(1){
+    font-weight: bold;
+    width: 200px;
+}

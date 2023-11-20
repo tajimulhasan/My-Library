@@ -1,0 +1,33 @@
+.nav-bar{
+    height: 80px;
+   background-color: skyblue;
+}
+.nav-box{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo h1{
+    text-shadow: 2px 0px 0px #8f8f8f
+}
+#library{
+    color: rgb(255, 145, 0);
+}
+.fa-cart-plus{
+    font-size: 26px;
+}
+.cart span{
+ background-color: red;
+ color: white;
+ font-weight: bold;
+ padding: 0px 3px;
+ position: relative;
+ top: -15px;
+ border-radius: 5px;
+ -webkit-border-radius: 5px;
+ -moz-border-radius: 5px;
+ -ms-border-radius: 5px;
+ -o-border-radius: 5px;
+}
